@@ -1,0 +1,2 @@
+# LexoMS
+Lexora legal platform
